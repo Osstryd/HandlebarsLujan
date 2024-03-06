@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Buzo 1",
+    "description": "Buzo1",
+    "code": "3456",
+    "price": 4000,
+    "status": true,
+    "stock": 5,
+    "category": "Buzo",
+    "thumbnails": ["buzo.jpg"],
+    "id": 4
+  }
+]
